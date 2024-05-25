@@ -6,6 +6,8 @@ Tested Using: **Javascript** Front-end and **PHP** Back-end via **XAMPP**
 Database to import located in file "db file here"
 Paste "Samgyupsalamat" into htdocs folder of XAMPP
 
+XAMPP: https://www.apachefriends.org/
+
 &nbsp;
 
 ## Subsystems
