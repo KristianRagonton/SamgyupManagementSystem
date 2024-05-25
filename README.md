@@ -2,7 +2,7 @@
 ### Samgyupsalamat Management System
 This is a **Management System** designed to manage the **Inventory**, **Sales**, **Payroll**, and **Employee Profiling** with an emphasis on the first three subsystems.
 
-Tested Using: **Javascript** Front-end and **PHP** Backend via **XAMPP**, Database to import located in file "db file here"
+Tested Using: **Javascript** Front-end and **PHP** Back-end via **XAMPP**, Database to import located in file "db file here"
 
 &nbsp;
 
