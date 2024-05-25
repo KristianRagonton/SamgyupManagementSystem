@@ -13,3 +13,5 @@ Tested Using: **Javascript** Front-end and **PHP** Backend via **XAMPP**, Databa
 * Payroll: Payroll, Deductions, Bonuses/Overtime, and Payroll Report Systems
 * Employee Profiling System
 * Minor Login System: default user: admin, default pass: 123
+
+Developers: Kristian Ragonton(Frontend/Backend), Avril Lalaine Linaza(Frontend/Documentation), & Daniel Julian Remoreras(Documentation)
